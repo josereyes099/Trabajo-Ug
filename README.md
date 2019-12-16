@@ -32,7 +32,7 @@ Trabajo de introduccion a ingeniera de software
 </tr>
 </table>
 
-<center><img src="foto.jpg"></center>
+<center><img src="https://www.facebook.com/photo.php?fbid=1805468779561203&set=pb.100002942965741.-2207520000..&type=3&theater"></center>
 
 </body>
 </html>
